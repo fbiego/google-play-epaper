@@ -2,6 +2,8 @@
 
 This project tests the Elecrow 5.79" ePaper display (272x792 resolution, Black/White) by displaying Google Play app statistics. The data is updated once a day and generated using a Python script that scrapes Google Play app data from the store.
 
+![Preview](preview.jpg?raw=true "preview")
+
 ## Hardware
 
 - **Elecrow 5.79" ePaper Display**
@@ -33,8 +35,6 @@ Repository for the data scraper: [`Google Play Scraper`](https://github.com/fbie
 The display interface is built using LVGL 9 with the help of the SquareLine Studio UI designer.
 
 [`Watch the Elecrow ePaper Display and LVGL 9 UI tutorial`](https://youtu.be/uhhUpfdYflc)
-
-![Preview](preview.jpg?raw=true "preview")
 
 
 ## License
